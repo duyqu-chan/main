@@ -2,37 +2,7 @@
 
 Here you can find my data analytics related projects.
 
-### Markdown
+### Explatory Data Analysis on Human Resources Data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My very first [group project](Group_Project2Yaka.html) [Data Analytics Essentials](https://mef-bda503.github.io/) course of [MEF University](http://www.mef.edu.tr/en)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duyqu-chan/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-hfgfkjfkhnjkkhk
